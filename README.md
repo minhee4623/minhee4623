@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+readme.md를 조작합니다.
+
 <!--
 **minhee4623/minhee4623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
