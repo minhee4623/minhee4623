@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 readme.md를 조작합니다.
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <!--
 **minhee4623/minhee4623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
